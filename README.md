@@ -20,8 +20,6 @@
 ```bash
 git clone https://github.com/vishwanathakuthota/opencruiseai.git
 cd opencruiseai
-pip install -r requirements.txt
-python main.py
 ```
 
 ### 🚗 Core Features
